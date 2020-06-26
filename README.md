@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://travis-ci.org/digitalocean/doctl">
-    <img src="https://travis-ci.org/digitalocean/doctl.svg?branch=master" alt="Build Status" />
+    <img src="https://travis-ci.org/digitalocean/doctl.svg?branch=main" alt="Build Status" />
   </a>
   <a href="https://godoc.org/github.com/digitalocean/doctl">
     <img src="https://godoc.org/github.com/digitalocean/doctl?status.svg" alt="GoDoc" />
